@@ -5,13 +5,22 @@
 /.pnp
 .pnp.js
 
+node_modules/
+build/
+dist/
+
 # testing
 /coverage
 
 # production
 /build
 
+
 # misc
+.env
+.env.local
+.env.production
+.firebase/
 .DS_Store
 .env.local
 .env.development.local
