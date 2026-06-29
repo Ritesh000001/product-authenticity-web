@@ -306,7 +306,7 @@ Store Data in Firestore
 
 <div align="center">
   
-![Login](Manufacturer%20Login.png)
+![Login](screenshots/Manufacturer%20Login.png)
 
 </div>
 
@@ -316,9 +316,9 @@ Store Data in Firestore
 
 <div align="center">
   
-![Manufacturer Dashboard](Manufacturer%20Dashboard.png)
+![Manufacturer Dashboard](screenshots/Manufacturer%20Dashboard.png)
 ![Batch QR](screenshots/Batch%20print.png)
-![Product inventory](Product%20inventry.png)
+![Product inventory](screenshots/Product%20inventry.png)
 
 </div>
 
