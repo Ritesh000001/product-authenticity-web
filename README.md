@@ -147,7 +147,8 @@ When a consumer scans a QR code using the Android application, the app retrieves
 ## 🏗 Architecture
 
 <div align="center">
-
+ 
+```text
 +----------------------+
 | Manufacturer Portal |
 |      React.js       |
@@ -176,7 +177,7 @@ Collection   Collection
            |
            v
 Product Verification
-
+```
 </div>
 
 ---
@@ -185,6 +186,7 @@ Product Verification
 
 <div align="center">
 
+```text
 Manufacturer/Admin
         |
         v
@@ -226,7 +228,7 @@ Store Data in Firestore
                |               |               |
                v               v               v
            Genuine          Fake       Suspicious
-
+```
 </div>
 
 ---
